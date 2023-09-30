@@ -1,0 +1,8 @@
+Sunday
+Monday
+Tuesday
+WednesDay
+Thursday
+Friday
+SaturdayHello, Pythonista!
+Welcome to the world of Python.
